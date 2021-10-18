@@ -5,12 +5,11 @@
 #####  🙆‍♀️ Titanic 생존자 예측
 #####  2️⃣ Mnist 숫자 이미지 분류
 #####  🏡 Boston 집값 예측
-#####  🏬 대구지역 집값 예측
 
-## 2. Web Hompage Project
+## 2. Web Homepage Project
 
-#####  📰 NEWS Hompage 만들기
-#####  🛒 Shoppingmall Hompage 만들기
+#####  📰 NEWS Homepage 만들기
+#####  🛒 Shoppingmall Homepage 만들기
 
 ## 3. IoT Project
 
