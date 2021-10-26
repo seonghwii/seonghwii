@@ -5,8 +5,6 @@
 #####  🙆‍♀️ Titanic 생존자 예측
 #####  2️⃣ Mnist 숫자 이미지 분류
 #####  🏡 Boston 집값 예측
-#####  🚗 헤드라이트 내부 물기 검출 및 양불 판정
-
 
 ## 2. Web Homepage Project
 
