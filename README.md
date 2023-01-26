@@ -16,3 +16,5 @@
 #####  📈 (Arduino) 실시간 데이터 수집 및 데이터 시각화
 #####  📸 (raspberry Pi) 4축 구동 얼굴 인식 삼각대 만들기(진행중)
 #####  📹 (esp32-cam) CCTV 만들기(진행중)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonghwii&show_icons=true&theme=dracula)
